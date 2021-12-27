@@ -9,3 +9,6 @@ It is solved by two methods:
 * Dijkstra's alogorithm using matlab
 * dictionaries using python
 
+The task and the presentation can be found here:
+https://drive.google.com/drive/folders/1usMkAVkLi1_VGIwynBT2rtd5Wi9ocAjq?usp=sharing
+
